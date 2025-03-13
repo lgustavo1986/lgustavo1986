@@ -13,8 +13,8 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
 
 ## 📊 Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lgustavo1986&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgustavo1986&layout=compact&theme=radical)
 
 ---
 
